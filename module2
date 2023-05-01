@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>
+            menu
+        </h1>
+        <div class="contents">
+            <div class="content1"> <span> chicken</span> <br> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam consectetur laudantium veritatis ut recusandae distinctio tenetur optio minus voluptatum doloribus, molestias quaerat, porro, cum fugiat illo omnis nam nulla repellendus? </div>
+            <div class="content2"> <span> beef</span> <br> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab qui impedit quis harum saepe. Suscipit repellendus distinctio dolorum rerum nisi! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, perferendis! </div>         
+            <div class="content3"> <span> sushi</span> <br> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus atque quod architecto aut voluptas! Iste enim debitis quasi aperiam esse! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, perferendis! </div> 
+        </div>
+    </div>
+</body>
+</html>
